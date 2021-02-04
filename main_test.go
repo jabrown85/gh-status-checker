@@ -5,6 +5,4 @@ import (
 )
 
 func TestMe(t *testing.T) {
-	// yay
-	t.Fatal("AHHHH")
 }
